@@ -1,2 +1,2 @@
-# ExpressReactPortfolioBackend
-This will be the backend for our Express React Portfolio.
+# Express React Portfolio Backend
+This will be the backend portion for our Express React Portfolio. The Portfolio will house information about us and the projects we have worked on. 
