@@ -1,17 +1,6 @@
 {
-    "name": "Jonathan Liang",
-    "email": "Jonathan.Liang75@outlook.com",
-    "headshot": "./images/Profile.jpeg",
-    "bio": "In 2022, I graduated from the University of Massachusetts Boston \
-    with a degree in Accounting, Information Systems, and Business Analytics. \ 
-    My college career involved multiple part-time and internship positions at Ernst and Young, 
-    where I eventually began working full-time as a Technology Risk Consultant in the same year. 
-    While at EY, I conducted IT audits for clients across various industries, 
-    including Manufacturing, Aerospace Science, Health Care, and Bio-Tech. 
-    Additionally, I coached EY teams on reading complex program scripts in languages such as 
-    Python, SQL, and HTML to identify risks. 
-    These experiences led me to develop a passion for software engineering, 
-    and I am currently enrolled in the General Assembly Software Engineering Immersive Program, 
-    with a graduation date set for June 2023. 
-    In my free time, I enjoy teaching and taking Taekwondo classes"
-  }
+  "name": "Jonathan Liang",
+  "email": "Jonathan.Liang75@outlook.com",
+  "headshot": "./images/Profile.jpeg",
+  "bio": "In 2022, I graduated from the University of Massachusetts Boston with a degree in Accounting, Information Systems, and Business Analytics. My college career involved multiple part-time and internship positions at Ernst and Young, where I eventually began working full-time as a Technology Risk Consultant in the same year. While at EY, I conducted IT audits for clients across various industries, including Manufacturing, Aerospace Science, Health Care, and Bio-Tech. Additionally, I coached EY teams on reading complex program scripts in languages such as Python, SQL, and HTML to identify risks. These experiences led me to develop a passion for software engineering, and I am currently enrolled in the General Assembly Software Engineering Immersive Program, with a graduation date set for June 2023. In my free time, I enjoy teaching and taking Taekwondo classes"
+}

@@ -18,9 +18,14 @@ app.get("/", (req,res) => {
     res.send("Hello World")
 })
 
-
-// Route for retrieving projects 
+// route for retrieving our projects 
 app.get("/projects", (req,res) => {
+    // send projects via JSON
+    res.json(projects)
+})
+
+// Route for retrieving the about page 
+app.get("/about", (req,res) => {
     // send projects via JSON
     res.json(about)
 })
