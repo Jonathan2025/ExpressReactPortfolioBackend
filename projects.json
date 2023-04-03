@@ -3,11 +3,13 @@
       "name": "Project 1 Star Wars Battleship",
       "live": "https://jonathan2025.github.io/",
       "git": "https://github.com/Jonathan2025/project1_StarWarsBattleship",
-      "image": "./images/Project1.png"},
+      "image": "/images/Project1.png"
+    },
     {
       "name": "Project 2 - Real Estate Express App",
       "live": "Pending",
       "git": "https://github.com/Jonathan2025/RealEstateApp",
-      "image": "./images/Project2.png"}
+      "image":"/images/Project2.png"
+    }
   ]
   

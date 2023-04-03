@@ -13,6 +13,12 @@ const app = express()
 // set up the cors middleware 
 app.use(cors())
 
+// NEW Serve static files from the public folder
+app.use(express.static('public')); 
+
+
+
+
 // home route for testing our app 
 app.get("/", (req,res) => {
     res.send("Hello World")
