@@ -6,6 +6,7 @@ const cors = require("cors")
 // import JSON files 
 const projects = require("./projects.json")
 const about = require("./about.json")
+const contact = require("./contact.json");
 
 // create our app object 
 const app = express()
@@ -23,6 +24,14 @@ app.use(express.static('public'));
 app.get("/", (req,res) => {
     res.send("Hello World")
 })
+
+
+// contact route for retrieving the contact information
+app.get('/contact', (req, res) => {
+    res.json(contact);
+  })
+
+
 
 // route for retrieving our projects 
 app.get("/projects", (req,res) => {
