@@ -11,7 +11,7 @@
       "live": "Pending",
       "git": "https://github.com/Jonathan2025/RealEstateApp",
       "image":"/images/Project2.png",
-      "description": "A full stack application that utilizes Javascript, Open Layers Map API, MongoDB, EJS, and Materialize CSS that allows users to track, edit, add, and delete houses that they are interested in buying."
+      "description": "A full stack application that utilizes Javascript, Open Layers Map API, MongoDB, EJS, and Materialize CSS that allows users to track, edit, add, and delete houses that they are interested in buying as well as view the location of the house and nearby amenities."
 
     }
   ]
