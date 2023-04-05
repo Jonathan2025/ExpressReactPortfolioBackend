@@ -18,8 +18,6 @@ app.use(cors())
 app.use(express.static('public')); 
 
 
-
-
 // home route for testing our app 
 app.get("/", (req,res) => {
     res.send("Hello World")

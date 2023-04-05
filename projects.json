@@ -3,13 +3,16 @@
       "name": "Project 1 - Star Wars Battleship",
       "live": "https://jonathan2025.github.io/",
       "git": "https://github.com/Jonathan2025/project1_StarWarsBattleship",
-      "image": "/images/Project1.png"
+      "image": "/images/Project1.png",
+      "description": "A battleship inspired game that utilizes Javascript, HTML, CSS and Lego Star Wars inspired mini-figures!"
     },
     {
       "name": "Project 2 - Real Estate Express App",
       "live": "Pending",
       "git": "https://github.com/Jonathan2025/RealEstateApp",
-      "image":"/images/Project2.png"
+      "image":"/images/Project2.png",
+      "description": "A full stack application that utilizes Javascript, Open Layers Map API, MongoDB, EJS, and Materialize CSS that allows users to track, edit, add, and delete houses that they are interested in buying."
+
     }
   ]
   
