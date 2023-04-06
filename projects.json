@@ -7,12 +7,11 @@
       "description": "A battleship inspired game that utilizes Javascript, HTML, CSS and Lego Star Wars inspired mini-figures!"
     },
     {
-      "name": "Project 2 - Real Estate Express App",
+      "name": "Project 2 - Tillow Real Estate App",
       "live": "Pending",
       "git": "https://github.com/Jonathan2025/RealEstateApp",
       "image":"/images/Project2.png",
-      "description": "A full stack application that utilizes Javascript, Open Layers Map API, MongoDB, EJS, and Materialize CSS that allows users to track, edit, add, and delete houses that they are interested in buying as well as view the location of the house and nearby amenities."
-
+      "description": "A full stack application that utilizes Javascript, Open Layers Map API, MongoDB, EJS, and Materialize CSS to allow users to track, edit, add, and delete houses that they are interested in buying as well as view the location of the house and nearby amenities. Heroku live app deployment link is coming soon!"
     }
   ]
   
