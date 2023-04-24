@@ -12,6 +12,13 @@
       "git": "https://github.com/Jonathan2025/RealEstateApp",
       "image":"/images/Project2.png",
       "description": "A full stack application that utilizes Javascript, Open Layers Map API, MongoDB, EJS, and Materialize CSS to allow users to track, edit, add, and delete houses that they are interested in buying as well as view the location of the house and nearby amenities. Heroku live app deployment link is coming soon!"
+    },
+    {
+      "name": "Project 3 - JX Funds App",
+      "live": "https://jxfunds.netlify.app/",
+      "git": "https://github.com/Jonathan2025/project3_frontend",
+      "image":"/images/Project3.png",
+      "description": "A react full-stack application that utilizes React, MongoDB, JavaScript, CSS and AlphaVantage API to allow users to recommend index funds to each other and view up-to-date information."
     }
   ]
   
